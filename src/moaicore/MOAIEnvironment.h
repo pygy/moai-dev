@@ -70,6 +70,7 @@
 			<li>devPlatform</li>
 			<li>devProduct</li>
 			<li>documentDirectory</li>
+			<li>horizontalResolution</li>
 			<li>iosRetinaDisplay</li>
 			<li>languageCode</li>
 			<li>numProcessors</li>
@@ -77,9 +78,8 @@
 			<li>osVersion</li>
 			<li>resourceDirectory</li>
 			<li>screenDpi</li>
-			<li>screenHeight</li>
-			<li>screenWidth</li>
 			<li>udid</li>
+			<li>verticalResolution</li>
 			</ul>
 			</p>
 	
